@@ -2,7 +2,7 @@
   {
     "MatchId": 1,
     "Group": "A",
-    "KickOff": "2026-06-11T21:00:00",
+    "KickOff": "2026-06-11T20:00:00",
     "Team1": "Mexico",
     "Flag1": "mx",
     "Team2": "South Africa",
@@ -17,8 +17,8 @@
   {
     "MatchId": 2,
     "Group": "A",
-    "KickOff": "2026-06-12T04:00:00",
-    "Team1": "S Korea",
+    "KickOff": "2026-06-12T03:00:00",
+    "Team1": "South Korea",
     "Flag1": "kr",
     "Team2": "Czechia",
     "Flag2": "cz",
@@ -32,10 +32,10 @@
   {
     "MatchId": 3,
     "Group": "B",
-    "KickOff": "2026-06-12T21:00:00",
+    "KickOff": "2026-06-12T20:00:00",
     "Team1": "Canada",
     "Flag1": "ca",
-    "Team2": "Bosnia",
+    "Team2": "Bosnia-Herz",
     "Flag2": "ba",
     "Stadium": "BMO Field",
     "City": "Toronto",
@@ -47,7 +47,7 @@
   {
     "MatchId": 4,
     "Group": "D",
-    "KickOff": "2026-06-13T06:00:00",
+    "KickOff": "2026-06-13T02:00:00",
     "Team1": "USA",
     "Flag1": "us",
     "Team2": "Paraguay",
@@ -62,7 +62,7 @@
   {
     "MatchId": 5,
     "Group": "B",
-    "KickOff": "2026-06-14T00:00:00",
+    "KickOff": "2026-06-13T20:00:00",
     "Team1": "Qatar",
     "Flag1": "qa",
     "Team2": "Switzerland",
@@ -77,7 +77,7 @@
   {
     "MatchId": 6,
     "Group": "C",
-    "KickOff": "2026-06-14T00:00:00",
+    "KickOff": "2026-06-13T23:00:00",
     "Team1": "Brazil",
     "Flag1": "br",
     "Team2": "Morocco",
@@ -92,7 +92,7 @@
   {
     "MatchId": 7,
     "Group": "C",
-    "KickOff": "2026-06-14T03:00:00",
+    "KickOff": "2026-06-14T02:00:00",
     "Team1": "Haiti",
     "Flag1": "ht",
     "Team2": "Scotland",
@@ -107,10 +107,10 @@
   {
     "MatchId": 8,
     "Group": "D",
-    "KickOff": "2026-06-14T09:00:00",
+    "KickOff": "2026-06-14T05:00:00",
     "Team1": "Australia",
     "Flag1": "au",
-    "Team2": "Türkiye",
+    "Team2": "Turkey",
     "Flag2": "tr",
     "Stadium": "BC Place",
     "City": "Vancouver",
@@ -122,7 +122,7 @@
   {
     "MatchId": 9,
     "Group": "E",
-    "KickOff": "2026-06-14T20:00:00",
+    "KickOff": "2026-06-14T18:00:00",
     "Team1": "Germany",
     "Flag1": "de",
     "Team2": "Curacao",
@@ -137,7 +137,7 @@
   {
     "MatchId": 10,
     "Group": "F",
-    "KickOff": "2026-06-14T23:00:00",
+    "KickOff": "2026-06-14T21:00:00",
     "Team1": "Netherlands",
     "Flag1": "nl",
     "Team2": "Japan",
@@ -152,7 +152,7 @@
   {
     "MatchId": 11,
     "Group": "E",
-    "KickOff": "2026-06-15T01:00:00",
+    "KickOff": "2026-06-15T00:00:00",
     "Team1": "Ivory Coast",
     "Flag1": "ci",
     "Team2": "Ecuador",
@@ -167,7 +167,7 @@
   {
     "MatchId": 12,
     "Group": "F",
-    "KickOff": "2026-06-15T05:00:00",
+    "KickOff": "2026-06-15T03:00:00",
     "Team1": "Sweden",
     "Flag1": "se",
     "Team2": "Tunisia",
@@ -182,7 +182,7 @@
   {
     "MatchId": 13,
     "Group": "H",
-    "KickOff": "2026-06-15T18:00:00",
+    "KickOff": "2026-06-15T17:00:00",
     "Team1": "Spain",
     "Flag1": "es",
     "Team2": "Cape Verde",
@@ -197,7 +197,7 @@
   {
     "MatchId": 14,
     "Group": "G",
-    "KickOff": "2026-06-15T21:00:00",
+    "KickOff": "2026-06-15T20:00:00",
     "Team1": "Belgium",
     "Flag1": "be",
     "Team2": "Egypt",
@@ -212,7 +212,7 @@
   {
     "MatchId": 15,
     "Group": "H",
-    "KickOff": "2026-06-16T00:00:00",
+    "KickOff": "2026-06-15T23:00:00",
     "Team1": "Saudi Arabia",
     "Flag1": "sa",
     "Team2": "Uruguay",
@@ -227,7 +227,7 @@
   {
     "MatchId": 16,
     "Group": "G",
-    "KickOff": "2026-06-16T03:00:00",
+    "KickOff": "2026-06-16T02:00:00",
     "Team1": "Iran",
     "Flag1": "ir",
     "Team2": "New Zealand",
@@ -242,7 +242,7 @@
   {
     "MatchId": 17,
     "Group": "I",
-    "KickOff": "2026-06-16T21:00:00",
+    "KickOff": "2026-06-16T20:00:00",
     "Team1": "France",
     "Flag1": "fr",
     "Team2": "Senegal",
@@ -257,7 +257,7 @@
   {
     "MatchId": 18,
     "Group": "I",
-    "KickOff": "2026-06-17T00:00:00",
+    "KickOff": "2026-06-16T23:00:00",
     "Team1": "Iraq",
     "Flag1": "iq",
     "Team2": "Norway",
@@ -272,7 +272,7 @@
   {
     "MatchId": 19,
     "Group": "J",
-    "KickOff": "2026-06-17T03:00:00",
+    "KickOff": "2026-06-17T02:00:00",
     "Team1": "Argentina",
     "Flag1": "ar",
     "Team2": "Algeria",
@@ -287,7 +287,7 @@
   {
     "MatchId": 20,
     "Group": "J",
-    "KickOff": "2026-06-17T06:00:00",
+    "KickOff": "2026-06-17T05:00:00",
     "Team1": "Austria",
     "Flag1": "at",
     "Team2": "Jordan",
@@ -302,7 +302,7 @@
   {
     "MatchId": 21,
     "Group": "K",
-    "KickOff": "2026-06-17T20:00:00",
+    "KickOff": "2026-06-17T18:00:00",
     "Team1": "Portugal",
     "Flag1": "pt",
     "Team2": "DR Congo",
@@ -317,7 +317,7 @@
   {
     "MatchId": 22,
     "Group": "L",
-    "KickOff": "2026-06-17T23:00:00",
+    "KickOff": "2026-06-17T21:00:00",
     "Team1": "England",
     "Flag1": "gb-eng",
     "Team2": "Croatia",
@@ -332,7 +332,7 @@
   {
     "MatchId": 23,
     "Group": "L",
-    "KickOff": "2026-06-18T02:00:00",
+    "KickOff": "2026-06-18T00:00:00",
     "Team1": "Ghana",
     "Flag1": "gh",
     "Team2": "Panama",
@@ -347,7 +347,7 @@
   {
     "MatchId": 24,
     "Group": "K",
-    "KickOff": "2026-06-18T05:00:00",
+    "KickOff": "2026-06-18T03:00:00",
     "Team1": "Uzbekistan",
     "Flag1": "uz",
     "Team2": "Colombia",
@@ -362,7 +362,7 @@
   {
     "MatchId": 25,
     "Group": "A",
-    "KickOff": "2026-06-18T18:00:00",
+    "KickOff": "2026-06-18T17:00:00",
     "Team1": "Czechia",
     "Flag1": "cz",
     "Team2": "South Africa",
@@ -377,10 +377,10 @@
   {
     "MatchId": 26,
     "Group": "B",
-    "KickOff": "2026-06-18T21:00:00",
+    "KickOff": "2026-06-18T20:00:00",
     "Team1": "Switzerland",
     "Flag1": "ch",
-    "Team2": "Bosnia",
+    "Team2": "Bosnia-Herz",
     "Flag2": "ba",
     "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
@@ -392,7 +392,7 @@
   {
     "MatchId": 27,
     "Group": "B",
-    "KickOff": "2026-06-19T00:00:00",
+    "KickOff": "2026-06-18T23:00:00",
     "Team1": "Canada",
     "Flag1": "ca",
     "Team2": "Qatar",
@@ -407,10 +407,10 @@
   {
     "MatchId": 28,
     "Group": "A",
-    "KickOff": "2026-06-19T03:00:00",
+    "KickOff": "2026-06-19T02:00:00",
     "Team1": "Mexico",
     "Flag1": "mx",
-    "Team2": "S Korea",
+    "Team2": "South Korea",
     "Flag2": "kr",
     "Stadium": "Estadio Akron",
     "City": "Zapopan",
@@ -422,7 +422,7 @@
   {
     "MatchId": 29,
     "Group": "D",
-    "KickOff": "2026-06-19T21:00:00",
+    "KickOff": "2026-06-19T20:00:00",
     "Team1": "USA",
     "Flag1": "us",
     "Team2": "Australia",
@@ -437,7 +437,7 @@
   {
     "MatchId": 30,
     "Group": "C",
-    "KickOff": "2026-06-20T00:00:00",
+    "KickOff": "2026-06-19T23:00:00",
     "Team1": "Scotland",
     "Flag1": "gb-sct",
     "Team2": "Morocco",
@@ -452,7 +452,7 @@
   {
     "MatchId": 31,
     "Group": "C",
-    "KickOff": "2026-06-20T03:00:00",
+    "KickOff": "2026-06-20T02:00:00",
     "Team1": "Brazil",
     "Flag1": "br",
     "Team2": "Haiti",
@@ -467,8 +467,8 @@
   {
     "MatchId": 32,
     "Group": "D",
-    "KickOff": "2026-06-20T06:00:00",
-    "Team1": "Türkiye",
+    "KickOff": "2026-06-20T05:00:00",
+    "Team1": "Turkey",
     "Flag1": "tr",
     "Team2": "Paraguay",
     "Flag2": "py",
@@ -482,7 +482,7 @@
   {
     "MatchId": 33,
     "Group": "F",
-    "KickOff": "2026-06-20T20:00:00",
+    "KickOff": "2026-06-20T18:00:00",
     "Team1": "Netherlands",
     "Flag1": "nl",
     "Team2": "Sweden",
@@ -497,7 +497,7 @@
   {
     "MatchId": 34,
     "Group": "E",
-    "KickOff": "2026-06-20T23:00:00",
+    "KickOff": "2026-06-20T21:00:00",
     "Team1": "Germany",
     "Flag1": "de",
     "Team2": "Ivory Coast",
@@ -512,7 +512,7 @@
   {
     "MatchId": 35,
     "Group": "E",
-    "KickOff": "2026-06-21T02:00:00",
+    "KickOff": "2026-06-21T01:00:00",
     "Team1": "Ecuador",
     "Flag1": "ec",
     "Team2": "Curacao",
@@ -527,7 +527,7 @@
   {
     "MatchId": 36,
     "Group": "F",
-    "KickOff": "2026-06-21T06:00:00",
+    "KickOff": "2026-06-21T05:00:00",
     "Team1": "Tunisia",
     "Flag1": "tn",
     "Team2": "Japan",
@@ -542,7 +542,7 @@
   {
     "MatchId": 37,
     "Group": "H",
-    "KickOff": "2026-06-21T18:00:00",
+    "KickOff": "2026-06-21T17:00:00",
     "Team1": "Spain",
     "Flag1": "es",
     "Team2": "Saudi Arabia",
@@ -557,7 +557,7 @@
   {
     "MatchId": 38,
     "Group": "G",
-    "KickOff": "2026-06-21T21:00:00",
+    "KickOff": "2026-06-21T20:00:00",
     "Team1": "Belgium",
     "Flag1": "be",
     "Team2": "Iran",
@@ -572,7 +572,7 @@
   {
     "MatchId": 39,
     "Group": "H",
-    "KickOff": "2026-06-22T00:00:00",
+    "KickOff": "2026-06-21T23:00:00",
     "Team1": "Uruguay",
     "Flag1": "uy",
     "Team2": "Cape Verde",
@@ -587,7 +587,7 @@
   {
     "MatchId": 40,
     "Group": "G",
-    "KickOff": "2026-06-22T03:00:00",
+    "KickOff": "2026-06-22T02:00:00",
     "Team1": "New Zealand",
     "Flag1": "nz",
     "Team2": "Egypt",
@@ -602,7 +602,7 @@
   {
     "MatchId": 41,
     "Group": "J",
-    "KickOff": "2026-06-22T19:00:00",
+    "KickOff": "2026-06-22T18:00:00",
     "Team1": "Argentina",
     "Flag1": "ar",
     "Team2": "Austria",
@@ -617,7 +617,7 @@
   {
     "MatchId": 42,
     "Group": "I",
-    "KickOff": "2026-06-22T23:00:00",
+    "KickOff": "2026-06-22T22:00:00",
     "Team1": "France",
     "Flag1": "fr",
     "Team2": "Iraq",
@@ -632,7 +632,7 @@
   {
     "MatchId": 43,
     "Group": "I",
-    "KickOff": "2026-06-23T02:00:00",
+    "KickOff": "2026-06-23T01:00:00",
     "Team1": "Norway",
     "Flag1": "no",
     "Team2": "Senegal",
@@ -647,7 +647,7 @@
   {
     "MatchId": 44,
     "Group": "J",
-    "KickOff": "2026-06-23T05:00:00",
+    "KickOff": "2026-06-23T04:00:00",
     "Team1": "Jordan",
     "Flag1": "jo",
     "Team2": "Algeria",
@@ -662,7 +662,7 @@
   {
     "MatchId": 45,
     "Group": "K",
-    "KickOff": "2026-06-23T20:00:00",
+    "KickOff": "2026-06-23T18:00:00",
     "Team1": "Portugal",
     "Flag1": "pt",
     "Team2": "Uzbekistan",
@@ -677,7 +677,7 @@
   {
     "MatchId": 46,
     "Group": "L",
-    "KickOff": "2026-06-23T22:00:00",
+    "KickOff": "2026-06-23T21:00:00",
     "Team1": "England",
     "Flag1": "gb-eng",
     "Team2": "Ghana",
@@ -692,7 +692,7 @@
   {
     "MatchId": 47,
     "Group": "L",
-    "KickOff": "2026-06-24T01:00:00",
+    "KickOff": "2026-06-24T00:00:00",
     "Team1": "Panama",
     "Flag1": "pa",
     "Team2": "Croatia",
@@ -707,7 +707,7 @@
   {
     "MatchId": 48,
     "Group": "K",
-    "KickOff": "2026-06-24T04:00:00",
+    "KickOff": "2026-06-24T03:00:00",
     "Team1": "Colombia",
     "Flag1": "co",
     "Team2": "DR Congo",
@@ -722,8 +722,8 @@
   {
     "MatchId": 49,
     "Group": "B",
-    "KickOff": "2026-06-24T21:00:00",
-    "Team1": "Bosnia",
+    "KickOff": "2026-06-24T20:00:00",
+    "Team1": "Bosnia-Herz",
     "Flag1": "ba",
     "Team2": "Qatar",
     "Flag2": "qa",
@@ -737,7 +737,7 @@
   {
     "MatchId": 50,
     "Group": "B",
-    "KickOff": "2026-06-24T21:00:00",
+    "KickOff": "2026-06-24T20:00:00",
     "Team1": "Switzerland",
     "Flag1": "ch",
     "Team2": "Canada",
@@ -752,7 +752,7 @@
   {
     "MatchId": 51,
     "Group": "C",
-    "KickOff": "2026-06-25T00:00:00",
+    "KickOff": "2026-06-24T23:00:00",
     "Team1": "Morocco",
     "Flag1": "ma",
     "Team2": "Haiti",
@@ -767,7 +767,7 @@
   {
     "MatchId": 52,
     "Group": "C",
-    "KickOff": "2026-06-25T00:00:00",
+    "KickOff": "2026-06-24T23:00:00",
     "Team1": "Scotland",
     "Flag1": "gb-sct",
     "Team2": "Brazil",
@@ -782,7 +782,7 @@
   {
     "MatchId": 53,
     "Group": "A",
-    "KickOff": "2026-06-25T03:00:00",
+    "KickOff": "2026-06-25T02:00:00",
     "Team1": "Czechia",
     "Flag1": "cz",
     "Team2": "Mexico",
@@ -797,10 +797,10 @@
   {
     "MatchId": 54,
     "Group": "A",
-    "KickOff": "2026-06-25T03:00:00",
+    "KickOff": "2026-06-25T02:00:00",
     "Team1": "South Africa",
     "Flag1": "za",
-    "Team2": "S Korea",
+    "Team2": "South Korea",
     "Flag2": "kr",
     "Stadium": "Estadio BBVA",
     "City": "Guadalupe",
@@ -812,22 +812,7 @@
   {
     "MatchId": 55,
     "Group": "E",
-    "KickOff": "2026-06-25T22:00:00",
-    "Team1": "Ecuador",
-    "Flag1": "ec",
-    "Team2": "Germany",
-    "Flag2": "de",
-    "Stadium": "MetLife Stadium",
-    "City": "East Rutherford",
-    "Broadcaster": "B",
-    "Latitude": 40.8135,
-    "Longitude": -74.0745,
-    "Capacity": 82500
-  },
-  {
-    "MatchId": 56,
-    "Group": "E",
-    "KickOff": "2026-06-25T22:00:00",
+    "KickOff": "2026-06-25T21:00:00",
     "Team1": "Curacao",
     "Flag1": "cw",
     "Team2": "Ivory Coast",
@@ -840,9 +825,24 @@
     "Capacity": 69176
   },
   {
+    "MatchId": 56,
+    "Group": "E",
+    "KickOff": "2026-06-25T21:00:00",
+    "Team1": "Ecuador",
+    "Flag1": "ec",
+    "Team2": "Germany",
+    "Flag2": "de",
+    "Stadium": "MetLife Stadium",
+    "City": "East Rutherford",
+    "Broadcaster": "B",
+    "Latitude": 40.8135,
+    "Longitude": -74.0745,
+    "Capacity": 82500
+  },
+  {
     "MatchId": 57,
     "Group": "F",
-    "KickOff": "2026-06-26T01:00:00",
+    "KickOff": "2026-06-26T00:00:00",
     "Team1": "Japan",
     "Flag1": "jp",
     "Team2": "Sweden",
@@ -857,7 +857,7 @@
   {
     "MatchId": 58,
     "Group": "F",
-    "KickOff": "2026-06-26T01:00:00",
+    "KickOff": "2026-06-26T00:00:00",
     "Team1": "Tunisia",
     "Flag1": "tn",
     "Team2": "Netherlands",
@@ -872,7 +872,7 @@
   {
     "MatchId": 59,
     "Group": "D",
-    "KickOff": "2026-06-26T04:00:00",
+    "KickOff": "2026-06-26T03:00:00",
     "Team1": "Paraguay",
     "Flag1": "py",
     "Team2": "Australia",
@@ -887,8 +887,8 @@
   {
     "MatchId": 60,
     "Group": "D",
-    "KickOff": "2026-06-26T04:00:00",
-    "Team1": "Türkiye",
+    "KickOff": "2026-06-26T03:00:00",
+    "Team1": "Turkey",
     "Flag1": "tr",
     "Team2": "USA",
     "Flag2": "us",
@@ -902,7 +902,7 @@
   {
     "MatchId": 61,
     "Group": "I",
-    "KickOff": "2026-06-26T21:00:00",
+    "KickOff": "2026-06-26T20:00:00",
     "Team1": "Norway",
     "Flag1": "no",
     "Team2": "France",
@@ -917,7 +917,7 @@
   {
     "MatchId": 62,
     "Group": "I",
-    "KickOff": "2026-06-26T21:00:00",
+    "KickOff": "2026-06-26T20:00:00",
     "Team1": "Senegal",
     "Flag1": "sn",
     "Team2": "Iraq",
@@ -932,7 +932,7 @@
   {
     "MatchId": 63,
     "Group": "H",
-    "KickOff": "2026-06-27T02:00:00",
+    "KickOff": "2026-06-27T01:00:00",
     "Team1": "Cape Verde",
     "Flag1": "cv",
     "Team2": "Saudi Arabia",
@@ -947,7 +947,7 @@
   {
     "MatchId": 64,
     "Group": "H",
-    "KickOff": "2026-06-27T02:00:00",
+    "KickOff": "2026-06-27T01:00:00",
     "Team1": "Uruguay",
     "Flag1": "uy",
     "Team2": "Spain",
@@ -962,7 +962,7 @@
   {
     "MatchId": 65,
     "Group": "G",
-    "KickOff": "2026-06-27T05:00:00",
+    "KickOff": "2026-06-27T04:00:00",
     "Team1": "Egypt",
     "Flag1": "eg",
     "Team2": "Iran",
@@ -977,7 +977,7 @@
   {
     "MatchId": 66,
     "Group": "G",
-    "KickOff": "2026-06-27T05:00:00",
+    "KickOff": "2026-06-27T04:00:00",
     "Team1": "New Zealand",
     "Flag1": "nz",
     "Team2": "Belgium",
@@ -992,22 +992,7 @@
   {
     "MatchId": 67,
     "Group": "L",
-    "KickOff": "2026-06-27T23:00:00",
-    "Team1": "Panama",
-    "Flag1": "pa",
-    "Team2": "England",
-    "Flag2": "gb-eng",
-    "Stadium": "MetLife Stadium",
-    "City": "East Rutherford",
-    "Broadcaster": "I",
-    "Latitude": 40.8135,
-    "Longitude": -74.0745,
-    "Capacity": 82500
-  },
-  {
-    "MatchId": 68,
-    "Group": "L",
-    "KickOff": "2026-06-27T23:00:00",
+    "KickOff": "2026-06-27T22:00:00",
     "Team1": "Croatia",
     "Flag1": "hr",
     "Team2": "Ghana",
@@ -1020,9 +1005,24 @@
     "Capacity": 69176
   },
   {
+    "MatchId": 68,
+    "Group": "L",
+    "KickOff": "2026-06-27T22:00:00",
+    "Team1": "Panama",
+    "Flag1": "pa",
+    "Team2": "England",
+    "Flag2": "gb-eng",
+    "Stadium": "MetLife Stadium",
+    "City": "East Rutherford",
+    "Broadcaster": "I",
+    "Latitude": 40.8135,
+    "Longitude": -74.0745,
+    "Capacity": 82500
+  },
+  {
     "MatchId": 69,
     "Group": "K",
-    "KickOff": "2026-06-28T02:30:00",
+    "KickOff": "2026-06-28T00:30:00",
     "Team1": "Colombia",
     "Flag1": "co",
     "Team2": "Portugal",
@@ -1037,7 +1037,7 @@
   {
     "MatchId": 70,
     "Group": "K",
-    "KickOff": "2026-06-28T02:30:00",
+    "KickOff": "2026-06-28T00:30:00",
     "Team1": "DR Congo",
     "Flag1": "cd",
     "Team2": "Uzbekistan",
@@ -1052,7 +1052,7 @@
   {
     "MatchId": 71,
     "Group": "J",
-    "KickOff": "2026-06-28T05:00:00",
+    "KickOff": "2026-06-28T03:00:00",
     "Team1": "Algeria",
     "Flag1": "dz",
     "Team2": "Austria",
@@ -1067,7 +1067,7 @@
   {
     "MatchId": 72,
     "Group": "J",
-    "KickOff": "2026-06-28T05:00:00",
+    "KickOff": "2026-06-28T03:00:00",
     "Team1": "Jordan",
     "Flag1": "jo",
     "Team2": "Argentina",
@@ -1082,7 +1082,7 @@
   {
     "MatchId": 73,
     "Group": "3",
-    "KickOff": "2026-06-29T01:00:00",
+    "KickOff": "2026-06-28T20:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1097,7 +1097,7 @@
   {
     "MatchId": 74,
     "Group": "3",
-    "KickOff": "2026-06-29T20:00:00",
+    "KickOff": "2026-06-29T18:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1112,7 +1112,7 @@
   {
     "MatchId": 75,
     "Group": "3",
-    "KickOff": "2026-06-29T23:30:00",
+    "KickOff": "2026-06-29T18:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1127,7 +1127,7 @@
   {
     "MatchId": 76,
     "Group": "3",
-    "KickOff": "2026-06-30T04:00:00",
+    "KickOff": "2026-06-30T02:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1142,7 +1142,7 @@
   {
     "MatchId": 77,
     "Group": "3",
-    "KickOff": "2026-06-30T20:00:00",
+    "KickOff": "2026-06-30T18:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1157,7 +1157,7 @@
   {
     "MatchId": 78,
     "Group": "3",
-    "KickOff": "2026-07-01T00:00:00",
+    "KickOff": "2026-06-30T22:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1172,7 +1172,7 @@
   {
     "MatchId": 79,
     "Group": "3",
-    "KickOff": "2026-07-01T03:00:00",
+    "KickOff": "2026-07-01T02:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1187,7 +1187,7 @@
   {
     "MatchId": 80,
     "Group": "3",
-    "KickOff": "2026-07-01T18:00:00",
+    "KickOff": "2026-07-01T17:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1202,7 +1202,7 @@
   {
     "MatchId": 81,
     "Group": "3",
-    "KickOff": "2026-07-02T00:00:00",
+    "KickOff": "2026-07-01T21:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1217,7 +1217,7 @@
   {
     "MatchId": 82,
     "Group": "3",
-    "KickOff": "2026-07-02T04:00:00",
+    "KickOff": "2026-07-02T01:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1232,22 +1232,22 @@
   {
     "MatchId": 83,
     "Group": "3",
-    "KickOff": "2026-07-03T00:00:00",
+    "KickOff": "2026-07-02T20:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "SoFi Stadium",
-    "City": "Los Angeles",
+    "Stadium": "Lincoln Financial Field",
+    "City": "Philadelphia",
     "Broadcaster": "X",
-    "Latitude": 33.9535,
-    "Longitude": -118.3392,
-    "Capacity": 70240
+    "Latitude": 39.9008,
+    "Longitude": -75.1675,
+    "Capacity": 69176
   },
   {
     "MatchId": 84,
     "Group": "3",
-    "KickOff": "2026-07-03T01:00:00",
+    "KickOff": "2026-07-03T00:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1262,7 +1262,7 @@
   {
     "MatchId": 85,
     "Group": "3",
-    "KickOff": "2026-07-04T08:00:00",
+    "KickOff": "2026-07-03T04:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1277,7 +1277,7 @@
   {
     "MatchId": 86,
     "Group": "3",
-    "KickOff": "2026-07-04T22:00:00",
+    "KickOff": "2026-07-03T19:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1292,7 +1292,7 @@
   {
     "MatchId": 87,
     "Group": "3",
-    "KickOff": "2026-07-05T00:00:00",
+    "KickOff": "2026-07-03T23:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1307,7 +1307,7 @@
   {
     "MatchId": 88,
     "Group": "3",
-    "KickOff": "2026-07-05T04:30:00",
+    "KickOff": "2026-07-04T02:30:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1322,7 +1322,7 @@
   {
     "MatchId": 89,
     "Group": "R",
-    "KickOff": "2026-07-04T20:00:00",
+    "KickOff": "2026-07-04T18:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1337,7 +1337,7 @@
   {
     "MatchId": 90,
     "Group": "R",
-    "KickOff": "2026-07-05T00:00:00",
+    "KickOff": "2026-07-04T22:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1352,7 +1352,7 @@
   {
     "MatchId": 91,
     "Group": "R",
-    "KickOff": "2026-07-05T23:00:00",
+    "KickOff": "2026-07-05T21:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1367,7 +1367,7 @@
   {
     "MatchId": 92,
     "Group": "R",
-    "KickOff": "2026-07-06T03:00:00",
+    "KickOff": "2026-07-06T01:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1382,7 +1382,7 @@
   {
     "MatchId": 93,
     "Group": "R",
-    "KickOff": "2026-07-06T23:00:00",
+    "KickOff": "2026-07-06T20:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1397,7 +1397,7 @@
   {
     "MatchId": 94,
     "Group": "R",
-    "KickOff": "2026-07-07T02:00:00",
+    "KickOff": "2026-07-07T01:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1412,7 +1412,7 @@
   {
     "MatchId": 95,
     "Group": "R",
-    "KickOff": "2026-07-07T19:00:00",
+    "KickOff": "2026-07-07T17:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1427,7 +1427,7 @@
   {
     "MatchId": 96,
     "Group": "R",
-    "KickOff": "2026-07-08T00:00:00",
+    "KickOff": "2026-07-07T21:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1442,7 +1442,7 @@
   {
     "MatchId": 97,
     "Group": "Q",
-    "KickOff": "2026-07-09T23:00:00",
+    "KickOff": "2026-07-09T21:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1457,7 +1457,7 @@
   {
     "MatchId": 98,
     "Group": "Q",
-    "KickOff": "2026-07-10T22:00:00",
+    "KickOff": "2026-07-10T20:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1472,7 +1472,7 @@
   {
     "MatchId": 99,
     "Group": "Q",
-    "KickOff": "2026-07-12T00:00:00",
+    "KickOff": "2026-07-11T22:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1487,7 +1487,7 @@
   {
     "MatchId": 100,
     "Group": "Q",
-    "KickOff": "2026-07-12T04:00:00",
+    "KickOff": "2026-07-12T02:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1502,7 +1502,7 @@
   {
     "MatchId": 101,
     "Group": "S",
-    "KickOff": "2026-07-14T23:00:00",
+    "KickOff": "2026-07-14T20:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1517,7 +1517,7 @@
   {
     "MatchId": 102,
     "Group": "S",
-    "KickOff": "2026-07-15T22:00:00",
+    "KickOff": "2026-07-15T20:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1532,7 +1532,7 @@
   {
     "MatchId": 103,
     "Group": "L",
-    "KickOff": "2026-07-19T00:00:00",
+    "KickOff": "2026-07-18T22:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
@@ -1547,7 +1547,7 @@
   {
     "MatchId": 104,
     "Group": "N",
-    "KickOff": "2026-07-19T22:00:00",
+    "KickOff": "2026-07-19T20:00:00",
     "Team1": "TBC",
     "Flag1": "",
     "Team2": "TBC",
