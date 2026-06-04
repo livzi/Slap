@@ -23,13 +23,13 @@
     "Flag1": "kr",
     "Team2": "Czechia",
     "Flag2": "cz",
-    "Stadium": "Guadalajara Stadium",
+    "Stadium": "Estadio Akron",
     "City": "Zapopan",
     "Broadcaster": "I",
     "Latitude": 20.681667,
     "Longitude": -103.462778,
     "Capacity": 49850,
-    "match_day_no": 1
+    "match_day_no": 2
   },
   {
     "MatchId": 3,
@@ -39,13 +39,13 @@
     "Flag1": "ca",
     "Team2": "Bosnia-Herz",
     "Flag2": "ba",
-    "Stadium": "Toronto Stadium",
+    "Stadium": "BMO Field",
     "City": "Toronto",
     "Broadcaster": "B",
     "Latitude": 43.6332,
     "Longitude": -79.4187,
     "Capacity": 45736,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 4,
@@ -55,13 +55,13 @@
     "Flag1": "us",
     "Team2": "Paraguay",
     "Flag2": "py",
-    "Stadium": "Los Angeles Stadium",
+    "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
     "Broadcaster": "B",
     "Latitude": 33.9535,
     "Longitude": -118.3392,
     "Capacity": 70240,
-    "match_day_no": 1
+    "match_day_no": 2
   },
   {
     "MatchId": 5,
@@ -71,13 +71,13 @@
     "Flag1": "qa",
     "Team2": "Switzerland",
     "Flag2": "ch",
-    "Stadium": "San Francisco Bay Area Stadium",
+    "Stadium": "Levi's Stadium",
     "City": "Santa Clara",
     "Broadcaster": "I",
     "Latitude": 37.4034,
     "Longitude": -121.9697,
     "Capacity": 68500,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 6,
@@ -87,13 +87,13 @@
     "Flag1": "br",
     "Team2": "Morocco",
     "Flag2": "ma",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "B",
     "Latitude": 40.8135,
     "Longitude": -74.0745,
     "Capacity": 82500,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 7,
@@ -103,13 +103,13 @@
     "Flag1": "ht",
     "Team2": "Scotland",
     "Flag2": "gb-sct",
-    "Stadium": "Boston Stadium",
+    "Stadium": "Gillette Stadium",
     "City": "Foxborough",
     "Broadcaster": "B",
     "Latitude": 42.0909,
     "Longitude": -71.2643,
     "Capacity": 65878,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 8,
@@ -119,13 +119,13 @@
     "Flag1": "au",
     "Team2": "Turkey",
     "Flag2": "tr",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "I",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 9,
@@ -135,13 +135,13 @@
     "Flag1": "de",
     "Team2": "Curacao",
     "Flag2": "cw",
-    "Stadium": "Houston Stadium",
+    "Stadium": "NRG Stadium",
     "City": "Houston",
     "Broadcaster": "I",
     "Latitude": 29.6847,
     "Longitude": -95.4107,
     "Capacity": 72220,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 10,
@@ -151,13 +151,13 @@
     "Flag1": "nl",
     "Team2": "Japan",
     "Flag2": "jp",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "I",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 11,
@@ -167,13 +167,13 @@
     "Flag1": "ci",
     "Team2": "Ecuador",
     "Flag2": "ec",
-    "Stadium": "Philadelphia Stadium",
+    "Stadium": "Lincoln Financial Field",
     "City": "Philadelphia",
     "Broadcaster": "B",
     "Latitude": 39.9008,
     "Longitude": -75.1675,
     "Capacity": 69176,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 12,
@@ -183,13 +183,13 @@
     "Flag1": "se",
     "Team2": "Tunisia",
     "Flag2": "tn",
-    "Stadium": "Monterrey Stadium",
+    "Stadium": "Estadio BBVA",
     "City": "Guadalupe",
     "Broadcaster": "I",
     "Latitude": 25.669167,
     "Longitude": -100.244444,
     "Capacity": 53500,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 13,
@@ -199,13 +199,13 @@
     "Flag1": "es",
     "Team2": "Cape Verde",
     "Flag2": "cv",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "I",
     "Latitude": 33.7554,
     "Longitude": -84.4009,
     "Capacity": 71000,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 14,
@@ -215,13 +215,13 @@
     "Flag1": "be",
     "Team2": "Egypt",
     "Flag2": "eg",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "B",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 15,
@@ -231,13 +231,13 @@
     "Flag1": "sa",
     "Team2": "Uruguay",
     "Flag2": "uy",
-    "Stadium": "Miami Stadium",
+    "Stadium": "Hard Rock Stadium",
     "City": "Miami Gardens",
     "Broadcaster": "I",
     "Latitude": 25.958,
     "Longitude": -80.2389,
     "Capacity": 65326,
-    "match_day_no": 5
+    "match_day_no": 3
   },
   {
     "MatchId": 16,
@@ -247,13 +247,13 @@
     "Flag1": "ir",
     "Team2": "New Zealand",
     "Flag2": "nz",
-    "Stadium": "Los Angeles Stadium",
+    "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
     "Broadcaster": "B",
     "Latitude": 33.9535,
     "Longitude": -118.3392,
     "Capacity": 70240,
-    "match_day_no": 1
+    "match_day_no": 4
   },
   {
     "MatchId": 17,
@@ -263,13 +263,13 @@
     "Flag1": "fr",
     "Team2": "Senegal",
     "Flag2": "sn",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "B",
     "Latitude": 40.8135,
     "Longitude": -74.0745,
     "Capacity": 82500,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 18,
@@ -279,13 +279,13 @@
     "Flag1": "iq",
     "Team2": "Norway",
     "Flag2": "no",
-    "Stadium": "Boston Stadium",
+    "Stadium": "Gillette Stadium",
     "City": "Foxborough",
     "Broadcaster": "B",
     "Latitude": 42.0909,
     "Longitude": -71.2643,
     "Capacity": 65878,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 19,
@@ -295,13 +295,13 @@
     "Flag1": "ar",
     "Team2": "Algeria",
     "Flag2": "dz",
-    "Stadium": "Kansas City Stadium",
+    "Stadium": "Arrowhead Stadium",
     "City": "Kansas City",
     "Broadcaster": "I",
     "Latitude": 39.0489,
     "Longitude": -94.4839,
     "Capacity": 76416,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 20,
@@ -311,13 +311,13 @@
     "Flag1": "at",
     "Team2": "Jordan",
     "Flag2": "jo",
-    "Stadium": "San Francisco Bay Area Stadium",
+    "Stadium": "Levi's Stadium",
     "City": "Santa Clara",
     "Broadcaster": "B",
     "Latitude": 37.4034,
     "Longitude": -121.9697,
     "Capacity": 68500,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 21,
@@ -327,13 +327,13 @@
     "Flag1": "pt",
     "Team2": "DR Congo",
     "Flag2": "cd",
-    "Stadium": "Houston Stadium",
+    "Stadium": "NRG Stadium",
     "City": "Houston",
     "Broadcaster": "B",
     "Latitude": 29.6847,
     "Longitude": -95.4107,
     "Capacity": 72220,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 22,
@@ -343,13 +343,13 @@
     "Flag1": "gb-eng",
     "Team2": "Croatia",
     "Flag2": "hr",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "I",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 23,
@@ -359,13 +359,13 @@
     "Flag1": "gh",
     "Team2": "Panama",
     "Flag2": "pa",
-    "Stadium": "Toronto Stadium",
+    "Stadium": "BMO Field",
     "City": "Toronto",
     "Broadcaster": "I",
     "Latitude": 43.6332,
     "Longitude": -79.4187,
     "Capacity": 45736,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 24,
@@ -381,7 +381,7 @@
     "Latitude": 19.3029,
     "Longitude": -99.1505,
     "Capacity": 87523,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 25,
@@ -391,13 +391,13 @@
     "Flag1": "cz",
     "Team2": "South Africa",
     "Flag2": "za",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "B",
     "Latitude": 33.7554,
     "Longitude": -84.4009,
     "Capacity": 71000,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 26,
@@ -407,13 +407,13 @@
     "Flag1": "ch",
     "Team2": "Bosnia-Herz",
     "Flag2": "ba",
-    "Stadium": "Los Angeles Stadium",
+    "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
     "Broadcaster": "I",
     "Latitude": 33.9535,
     "Longitude": -118.3392,
     "Capacity": 70240,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 27,
@@ -423,13 +423,13 @@
     "Flag1": "ca",
     "Team2": "Qatar",
     "Flag2": "qa",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "I",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 5
+    "match_day_no": 3
   },
   {
     "MatchId": 28,
@@ -439,13 +439,13 @@
     "Flag1": "mx",
     "Team2": "South Korea",
     "Flag2": "kr",
-    "Stadium": "Guadalajara Stadium",
+    "Stadium": "Estadio Akron",
     "City": "Zapopan",
     "Broadcaster": "B",
     "Latitude": 20.681667,
     "Longitude": -103.462778,
     "Capacity": 49850,
-    "match_day_no": 1
+    "match_day_no": 4
   },
   {
     "MatchId": 29,
@@ -455,13 +455,13 @@
     "Flag1": "us",
     "Team2": "Australia",
     "Flag2": "au",
-    "Stadium": "Seattle Stadium",
+    "Stadium": "Lumen Field",
     "City": "Seattle",
     "Broadcaster": "B",
     "Latitude": 47.5952,
     "Longitude": -122.3316,
     "Capacity": 69000,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 30,
@@ -471,13 +471,13 @@
     "Flag1": "gb-sct",
     "Team2": "Morocco",
     "Flag2": "ma",
-    "Stadium": "Boston Stadium",
+    "Stadium": "Gillette Stadium",
     "City": "Foxborough",
     "Broadcaster": "I",
     "Latitude": 42.0909,
     "Longitude": -71.2643,
     "Capacity": 65878,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 31,
@@ -487,13 +487,13 @@
     "Flag1": "br",
     "Team2": "Haiti",
     "Flag2": "ht",
-    "Stadium": "Philadelphia Stadium",
+    "Stadium": "Lincoln Financial Field",
     "City": "Philadelphia",
     "Broadcaster": "I",
     "Latitude": 39.9008,
     "Longitude": -75.1675,
     "Capacity": 69176,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 32,
@@ -503,13 +503,13 @@
     "Flag1": "tr",
     "Team2": "Paraguay",
     "Flag2": "py",
-    "Stadium": "San Francisco Bay Area Stadium",
+    "Stadium": "Levi's Stadium",
     "City": "Santa Clara",
     "Broadcaster": "I",
     "Latitude": 37.4034,
     "Longitude": -121.9697,
     "Capacity": 68500,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 33,
@@ -519,13 +519,13 @@
     "Flag1": "nl",
     "Team2": "Sweden",
     "Flag2": "se",
-    "Stadium": "Houston Stadium",
+    "Stadium": "NRG Stadium",
     "City": "Houston",
     "Broadcaster": "B",
     "Latitude": 29.6847,
     "Longitude": -95.4107,
     "Capacity": 72220,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 34,
@@ -535,13 +535,13 @@
     "Flag1": "de",
     "Team2": "Ivory Coast",
     "Flag2": "ci",
-    "Stadium": "Toronto Stadium",
+    "Stadium": "BMO Field",
     "City": "Toronto",
     "Broadcaster": "I",
     "Latitude": 43.6332,
     "Longitude": -79.4187,
     "Capacity": 45736,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 35,
@@ -551,13 +551,13 @@
     "Flag1": "ec",
     "Team2": "Curacao",
     "Flag2": "cw",
-    "Stadium": "Kansas City Stadium",
+    "Stadium": "Arrowhead Stadium",
     "City": "Kansas City",
     "Broadcaster": "B",
     "Latitude": 39.0489,
     "Longitude": -94.4839,
     "Capacity": 76416,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 36,
@@ -567,13 +567,13 @@
     "Flag1": "tn",
     "Team2": "Japan",
     "Flag2": "jp",
-    "Stadium": "Monterrey Stadium",
+    "Stadium": "Estadio BBVA",
     "City": "Guadalupe",
     "Broadcaster": "B",
     "Latitude": 25.669167,
     "Longitude": -100.244444,
     "Capacity": 53500,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 37,
@@ -583,13 +583,13 @@
     "Flag1": "es",
     "Team2": "Saudi Arabia",
     "Flag2": "sa",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "B",
     "Latitude": 33.7554,
     "Longitude": -84.4009,
     "Capacity": 71000,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 38,
@@ -599,13 +599,13 @@
     "Flag1": "be",
     "Team2": "Iran",
     "Flag2": "ir",
-    "Stadium": "Los Angeles Stadium",
+    "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
     "Broadcaster": "I",
     "Latitude": 33.9535,
     "Longitude": -118.3392,
     "Capacity": 70240,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 39,
@@ -615,13 +615,13 @@
     "Flag1": "uy",
     "Team2": "Cape Verde",
     "Flag2": "cv",
-    "Stadium": "Miami Stadium",
+    "Stadium": "Hard Rock Stadium",
     "City": "Miami Gardens",
     "Broadcaster": "B",
     "Latitude": 25.958,
     "Longitude": -80.2389,
     "Capacity": 65326,
-    "match_day_no": 5
+    "match_day_no": 3
   },
   {
     "MatchId": 40,
@@ -631,13 +631,13 @@
     "Flag1": "nz",
     "Team2": "Egypt",
     "Flag2": "eg",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "I",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 1
+    "match_day_no": 4
   },
   {
     "MatchId": 41,
@@ -647,13 +647,13 @@
     "Flag1": "ar",
     "Team2": "Austria",
     "Flag2": "at",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "B",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 42,
@@ -663,13 +663,13 @@
     "Flag1": "fr",
     "Team2": "Iraq",
     "Flag2": "iq",
-    "Stadium": "Philadelphia Stadium",
+    "Stadium": "Lincoln Financial Field",
     "City": "Philadelphia",
     "Broadcaster": "B",
     "Latitude": 39.9008,
     "Longitude": -75.1675,
     "Capacity": 69176,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 43,
@@ -679,13 +679,13 @@
     "Flag1": "no",
     "Team2": "Senegal",
     "Flag2": "sn",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "I",
     "Latitude": 40.8135,
     "Longitude": -74.0745,
     "Capacity": 82500,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 44,
@@ -695,13 +695,13 @@
     "Flag1": "jo",
     "Team2": "Algeria",
     "Flag2": "dz",
-    "Stadium": "San Francisco Bay Area Stadium",
+    "Stadium": "Levi's Stadium",
     "City": "Santa Clara",
     "Broadcaster": "I",
     "Latitude": 37.4034,
     "Longitude": -121.9697,
     "Capacity": 68500,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 45,
@@ -711,13 +711,13 @@
     "Flag1": "pt",
     "Team2": "Uzbekistan",
     "Flag2": "uz",
-    "Stadium": "Houston Stadium",
+    "Stadium": "NRG Stadium",
     "City": "Houston",
     "Broadcaster": "I",
     "Latitude": 29.6847,
     "Longitude": -95.4107,
     "Capacity": 72220,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 46,
@@ -727,13 +727,13 @@
     "Flag1": "gb-eng",
     "Team2": "Ghana",
     "Flag2": "gh",
-    "Stadium": "Boston Stadium",
+    "Stadium": "Gillette Stadium",
     "City": "Foxborough",
     "Broadcaster": "B",
     "Latitude": 42.0909,
     "Longitude": -71.2643,
     "Capacity": 65878,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 47,
@@ -743,13 +743,13 @@
     "Flag1": "pa",
     "Team2": "Croatia",
     "Flag2": "hr",
-    "Stadium": "Toronto Stadium",
+    "Stadium": "BMO Field",
     "City": "Toronto",
     "Broadcaster": "B",
     "Latitude": 43.6332,
     "Longitude": -79.4187,
     "Capacity": 45736,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 48,
@@ -759,13 +759,13 @@
     "Flag1": "co",
     "Team2": "DR Congo",
     "Flag2": "cd",
-    "Stadium": "Guadalajara Stadium",
+    "Stadium": "Estadio Akron",
     "City": "Zapopan",
     "Broadcaster": "I",
     "Latitude": 20.681667,
     "Longitude": -103.462778,
     "Capacity": 49850,
-    "match_day_no": 2
+    "match_day_no": 4
   },
   {
     "MatchId": 49,
@@ -775,13 +775,13 @@
     "Flag1": "ba",
     "Team2": "Qatar",
     "Flag2": "qa",
-    "Stadium": "Seattle Stadium",
+    "Stadium": "Lumen Field",
     "City": "Seattle",
     "Broadcaster": "I",
     "Latitude": 47.5952,
     "Longitude": -122.3316,
     "Capacity": 69000,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 50,
@@ -791,13 +791,13 @@
     "Flag1": "ch",
     "Team2": "Canada",
     "Flag2": "ca",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "I",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 51,
@@ -807,13 +807,13 @@
     "Flag1": "ma",
     "Team2": "Haiti",
     "Flag2": "ht",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "B",
     "Latitude": 33.7554,
     "Longitude": -84.4009,
     "Capacity": 71000,
-    "match_day_no": 4
+    "match_day_no": 3
   },
   {
     "MatchId": 52,
@@ -823,7 +823,7 @@
     "Flag1": "gb-sct",
     "Team2": "Brazil",
     "Flag2": "br",
-    "Stadium": "Miami Stadium",
+    "Stadium": "Hard Rock Stadium",
     "City": "Miami Gardens",
     "Broadcaster": "B",
     "Latitude": 25.958,
@@ -845,7 +845,7 @@
     "Latitude": 19.3029,
     "Longitude": -99.1505,
     "Capacity": 87523,
-    "match_day_no": 1
+    "match_day_no": 5
   },
   {
     "MatchId": 54,
@@ -855,13 +855,13 @@
     "Flag1": "za",
     "Team2": "South Korea",
     "Flag2": "kr",
-    "Stadium": "Monterrey Stadium",
+    "Stadium": "Estadio BBVA",
     "City": "Guadalupe",
     "Broadcaster": "B",
     "Latitude": 25.669167,
     "Longitude": -100.244444,
     "Capacity": 53500,
-    "match_day_no": 1
+    "match_day_no": 6
   },
   {
     "MatchId": 55,
@@ -871,13 +871,13 @@
     "Flag1": "cw",
     "Team2": "Ivory Coast",
     "Flag2": "ci",
-    "Stadium": "Philadelphia Stadium",
+    "Stadium": "Lincoln Financial Field",
     "City": "Philadelphia",
     "Broadcaster": "B",
     "Latitude": 39.9008,
     "Longitude": -75.1675,
     "Capacity": 69176,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 56,
@@ -887,7 +887,7 @@
     "Flag1": "ec",
     "Team2": "Germany",
     "Flag2": "de",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "B",
     "Latitude": 40.8135,
@@ -903,13 +903,13 @@
     "Flag1": "jp",
     "Team2": "Sweden",
     "Flag2": "se",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "B",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 58,
@@ -919,13 +919,13 @@
     "Flag1": "tn",
     "Team2": "Netherlands",
     "Flag2": "nl",
-    "Stadium": "Kansas City Stadium",
+    "Stadium": "Arrowhead Stadium",
     "City": "Kansas City",
     "Broadcaster": "B",
     "Latitude": 39.0489,
     "Longitude": -94.4839,
     "Capacity": 76416,
-    "match_day_no": 1
+    "match_day_no": 4
   },
   {
     "MatchId": 59,
@@ -935,13 +935,13 @@
     "Flag1": "py",
     "Team2": "Australia",
     "Flag2": "au",
-    "Stadium": "San Francisco Bay Area Stadium",
+    "Stadium": "Levi's Stadium",
     "City": "Santa Clara",
     "Broadcaster": "I",
     "Latitude": 37.4034,
     "Longitude": -121.9697,
     "Capacity": 68500,
-    "match_day_no": 2
+    "match_day_no": 5
   },
   {
     "MatchId": 60,
@@ -951,13 +951,13 @@
     "Flag1": "tr",
     "Team2": "USA",
     "Flag2": "us",
-    "Stadium": "Los Angeles Stadium",
+    "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
     "Broadcaster": "I",
     "Latitude": 33.9535,
     "Longitude": -118.3392,
     "Capacity": 70240,
-    "match_day_no": 2
+    "match_day_no": 6
   },
   {
     "MatchId": 61,
@@ -967,13 +967,13 @@
     "Flag1": "no",
     "Team2": "France",
     "Flag2": "fr",
-    "Stadium": "Boston Stadium",
+    "Stadium": "Gillette Stadium",
     "City": "Foxborough",
     "Broadcaster": "I",
     "Latitude": 42.0909,
     "Longitude": -71.2643,
     "Capacity": 65878,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 62,
@@ -983,13 +983,13 @@
     "Flag1": "sn",
     "Team2": "Iraq",
     "Flag2": "iq",
-    "Stadium": "Toronto Stadium",
+    "Stadium": "BMO Field",
     "City": "Toronto",
     "Broadcaster": "I",
     "Latitude": 43.6332,
     "Longitude": -79.4187,
     "Capacity": 45736,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 63,
@@ -999,13 +999,13 @@
     "Flag1": "cv",
     "Team2": "Saudi Arabia",
     "Flag2": "sa",
-    "Stadium": "Houston Stadium",
+    "Stadium": "NRG Stadium",
     "City": "Houston",
     "Broadcaster": "I",
     "Latitude": 29.6847,
     "Longitude": -95.4107,
     "Capacity": 72220,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 64,
@@ -1015,13 +1015,13 @@
     "Flag1": "uy",
     "Team2": "Spain",
     "Flag2": "es",
-    "Stadium": "Guadalajara Stadium",
+    "Stadium": "Estadio Akron",
     "City": "Zapopan",
     "Broadcaster": "I",
     "Latitude": 20.681667,
     "Longitude": -103.462778,
     "Capacity": 49850,
-    "match_day_no": 1
+    "match_day_no": 4
   },
   {
     "MatchId": 65,
@@ -1031,13 +1031,13 @@
     "Flag1": "eg",
     "Team2": "Iran",
     "Flag2": "ir",
-    "Stadium": "Seattle Stadium",
+    "Stadium": "Lumen Field",
     "City": "Seattle",
     "Broadcaster": "B",
     "Latitude": 47.5952,
     "Longitude": -122.3316,
     "Capacity": 69000,
-    "match_day_no": 2
+    "match_day_no": 5
   },
   {
     "MatchId": 66,
@@ -1047,13 +1047,13 @@
     "Flag1": "nz",
     "Team2": "Belgium",
     "Flag2": "be",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "B",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 2
+    "match_day_no": 6
   },
   {
     "MatchId": 67,
@@ -1063,13 +1063,13 @@
     "Flag1": "hr",
     "Team2": "Ghana",
     "Flag2": "gh",
-    "Stadium": "Philadelphia Stadium",
+    "Stadium": "Lincoln Financial Field",
     "City": "Philadelphia",
     "Broadcaster": "I",
     "Latitude": 39.9008,
     "Longitude": -75.1675,
     "Capacity": 69176,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 68,
@@ -1079,13 +1079,13 @@
     "Flag1": "pa",
     "Team2": "England",
     "Flag2": "gb-eng",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "I",
     "Latitude": 40.8135,
     "Longitude": -74.0745,
     "Capacity": 82500,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 69,
@@ -1095,13 +1095,13 @@
     "Flag1": "co",
     "Team2": "Portugal",
     "Flag2": "pt",
-    "Stadium": "Miami Stadium",
+    "Stadium": "Hard Rock Stadium",
     "City": "Miami Gardens",
     "Broadcaster": "B",
     "Latitude": 25.958,
     "Longitude": -80.2389,
     "Capacity": 65326,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 70,
@@ -1111,13 +1111,13 @@
     "Flag1": "cd",
     "Team2": "Uzbekistan",
     "Flag2": "uz",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "B",
     "Latitude": 33.7554,
     "Longitude": -84.4009,
     "Capacity": 71000,
-    "match_day_no": 1
+    "match_day_no": 4
   },
   {
     "MatchId": 71,
@@ -1127,13 +1127,13 @@
     "Flag1": "dz",
     "Team2": "Austria",
     "Flag2": "at",
-    "Stadium": "Kansas City Stadium",
+    "Stadium": "Arrowhead Stadium",
     "City": "Kansas City",
     "Broadcaster": "B",
     "Latitude": 39.0489,
     "Longitude": -94.4839,
     "Capacity": 76416,
-    "match_day_no": 2
+    "match_day_no": 5
   },
   {
     "MatchId": 72,
@@ -1143,13 +1143,13 @@
     "Flag1": "jo",
     "Team2": "Argentina",
     "Flag2": "ar",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "B",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 2
+    "match_day_no": 6
   },
   {
     "MatchId": 73,
@@ -1159,13 +1159,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Los Angeles Stadium",
+    "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
     "Broadcaster": "X",
     "Latitude": 33.9535,
     "Longitude": -118.3392,
     "Capacity": 70240,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 74,
@@ -1175,7 +1175,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Houston Stadium",
+    "Stadium": "NRG Stadium",
     "City": "Houston",
     "Broadcaster": "X",
     "Latitude": 29.6847,
@@ -1191,13 +1191,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Boston Stadium",
+    "Stadium": "Gillette Stadium",
     "City": "Foxborough",
     "Broadcaster": "X",
     "Latitude": 42.0909,
     "Longitude": -71.2643,
     "Capacity": 65878,
-    "match_day_no": 1
+    "match_day_no": 2
   },
   {
     "MatchId": 76,
@@ -1207,13 +1207,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Monterrey Stadium",
+    "Stadium": "Estadio BBVA",
     "City": "Guadalupe",
     "Broadcaster": "X",
     "Latitude": 25.669167,
     "Longitude": -100.244444,
     "Capacity": 53500,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 77,
@@ -1223,13 +1223,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "X",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 78,
@@ -1239,13 +1239,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "X",
     "Latitude": 40.8135,
     "Longitude": -74.0745,
     "Capacity": 82500,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 79,
@@ -1261,7 +1261,7 @@
     "Latitude": 19.3029,
     "Longitude": -99.1505,
     "Capacity": 87523,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 80,
@@ -1271,13 +1271,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "X",
     "Latitude": 33.7554,
     "Longitude": -84.4009,
     "Capacity": 71000,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 81,
@@ -1287,13 +1287,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Seattle Stadium",
+    "Stadium": "Lumen Field",
     "City": "Seattle",
     "Broadcaster": "X",
     "Latitude": 47.5952,
     "Longitude": -122.3316,
     "Capacity": 69000,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 82,
@@ -1303,13 +1303,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "San Francisco Bay Area Stadium",
+    "Stadium": "Levi's Stadium",
     "City": "Santa Clara",
     "Broadcaster": "X",
     "Latitude": 37.4034,
     "Longitude": -121.9697,
     "Capacity": 68500,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 83,
@@ -1319,13 +1319,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Philadelphia Stadium",
+    "Stadium": "Lincoln Financial Field",
     "City": "Philadelphia",
     "Broadcaster": "X",
     "Latitude": 39.9008,
     "Longitude": -75.1675,
     "Capacity": 69176,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 84,
@@ -1335,13 +1335,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Toronto Stadium",
+    "Stadium": "BMO Field",
     "City": "Toronto",
     "Broadcaster": "X",
     "Latitude": 43.6332,
     "Longitude": -79.4187,
     "Capacity": 45736,
-    "match_day_no": 1
+    "match_day_no": 2
   },
   {
     "MatchId": 85,
@@ -1351,13 +1351,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "X",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 2
+    "match_day_no": 3
   },
   {
     "MatchId": 86,
@@ -1367,13 +1367,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "X",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 3
+    "match_day_no": 1
   },
   {
     "MatchId": 87,
@@ -1383,13 +1383,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Miami Stadium",
+    "Stadium": "Hard Rock Stadium",
     "City": "Miami Gardens",
     "Broadcaster": "X",
     "Latitude": 25.958,
     "Longitude": -80.2389,
     "Capacity": 65326,
-    "match_day_no": 4
+    "match_day_no": 2
   },
   {
     "MatchId": 88,
@@ -1399,13 +1399,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Kansas City Stadium",
+    "Stadium": "Arrowhead Stadium",
     "City": "Kansas City",
     "Broadcaster": "X",
     "Latitude": 39.0489,
     "Longitude": -94.4839,
     "Capacity": 76416,
-    "match_day_no": 1
+    "match_day_no": 3
   },
   {
     "MatchId": 89,
@@ -1415,13 +1415,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Houston Stadium",
+    "Stadium": "NRG Stadium",
     "City": "Houston",
     "Broadcaster": "X",
     "Latitude": 29.6847,
     "Longitude": -95.4107,
     "Capacity": 72220,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 90,
@@ -1431,13 +1431,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Philadelphia Stadium",
+    "Stadium": "Lincoln Financial Field",
     "City": "Philadelphia",
     "Broadcaster": "X",
     "Latitude": 39.9008,
     "Longitude": -75.1675,
     "Capacity": 69176,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 91,
@@ -1447,7 +1447,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "X",
     "Latitude": 40.8135,
@@ -1469,7 +1469,7 @@
     "Latitude": 19.3029,
     "Longitude": -99.1505,
     "Capacity": 87523,
-    "match_day_no": 1
+    "match_day_no": 2
   },
   {
     "MatchId": 93,
@@ -1479,13 +1479,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "X",
     "Latitude": 32.748,
     "Longitude": -97.0929,
     "Capacity": 80000,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 94,
@@ -1495,13 +1495,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Seattle Stadium",
+    "Stadium": "Lumen Field",
     "City": "Seattle",
     "Broadcaster": "X",
     "Latitude": 47.5952,
     "Longitude": -122.3316,
     "Capacity": 69000,
-    "match_day_no": 1
+    "match_day_no": 2
   },
   {
     "MatchId": 95,
@@ -1511,13 +1511,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "X",
     "Latitude": 33.7554,
     "Longitude": -84.4009,
     "Capacity": 71000,
-    "match_day_no": 2
+    "match_day_no": 1
   },
   {
     "MatchId": 96,
@@ -1527,13 +1527,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Vancouver Stadium",
+    "Stadium": "BC Place",
     "City": "Vancouver",
     "Broadcaster": "X",
     "Latitude": 49.2768,
     "Longitude": -123.1118,
     "Capacity": 54500,
-    "match_day_no": 3
+    "match_day_no": 2
   },
   {
     "MatchId": 97,
@@ -1543,7 +1543,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Boston Stadium",
+    "Stadium": "Gillette Stadium",
     "City": "Foxborough",
     "Broadcaster": "X",
     "Latitude": 42.0909,
@@ -1559,7 +1559,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Los Angeles Stadium",
+    "Stadium": "SoFi Stadium",
     "City": "Los Angeles",
     "Broadcaster": "X",
     "Latitude": 33.9535,
@@ -1575,7 +1575,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Miami Stadium",
+    "Stadium": "Hard Rock Stadium",
     "City": "Miami Gardens",
     "Broadcaster": "X",
     "Latitude": 25.958,
@@ -1591,13 +1591,13 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Kansas City Stadium",
+    "Stadium": "Arrowhead Stadium",
     "City": "Kansas City",
     "Broadcaster": "X",
     "Latitude": 39.0489,
     "Longitude": -94.4839,
     "Capacity": 76416,
-    "match_day_no": 1
+    "match_day_no": 2
   },
   {
     "MatchId": 101,
@@ -1607,7 +1607,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Dallas Stadium",
+    "Stadium": "AT&T Stadium",
     "City": "Arlington",
     "Broadcaster": "X",
     "Latitude": 32.748,
@@ -1623,7 +1623,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Atlanta Stadium",
+    "Stadium": "Mercedes-Benz Stadium",
     "City": "Atlanta",
     "Broadcaster": "X",
     "Latitude": 33.7554,
@@ -1639,7 +1639,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "Miami Stadium",
+    "Stadium": "Hard Rock Stadium",
     "City": "Miami Gardens",
     "Broadcaster": "X",
     "Latitude": 25.958,
@@ -1655,7 +1655,7 @@
     "Flag1": "",
     "Team2": "TBC",
     "Flag2": "",
-    "Stadium": "New York New Jersey Stadium",
+    "Stadium": "MetLife Stadium",
     "City": "East Rutherford",
     "Broadcaster": "X",
     "Latitude": 40.8135,
