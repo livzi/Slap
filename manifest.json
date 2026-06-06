@@ -2,12 +2,13 @@
     "name": "wcslap26",
     "short_name": "wcslap26",
     "start_url": ".",
+    "theme_color": "#000000",
+    "background_color": "#000000",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "World Cup 2026 Fixtures",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+
     "icons": [
         {
             "src": "icons/Icon-192.png",
